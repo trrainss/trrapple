@@ -1,0 +1,245 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border: 0;
+}
+nav{align-items: center;
+    gap: 25px;
+    display:flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.75);
+    position: absolute;
+    top: 0;
+    width: 1855px;
+    height: 44px;
+}
+
+nav a{
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.spamm{
+    margin-top: -25px;
+    cursor: pointer;
+}
+.spamm1{
+    margin-top: 0px;
+    cursor: pointer;
+}
+.spamm2{
+    margin-top: -10px;
+    cursor: pointer;
+}
+.learnmore{
+    font-family: 'SF-Pro-Display-Thin';
+    font-weight: 100;
+    color: #0066CC;
+    margin: 60px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 21px;
+}
+.buy{
+    font-family: 'SF-Pro-Display-Thin';
+    font-weight: 100;
+    color: #0066CC;
+    margin: 60px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 21px;
+    margin-top: -100px;
+}
+
+section{
+    margin-top: 94px;
+    width: 100%;
+    height: 2320px;
+    background: rgb(255, 37, 37);
+}
+main{
+    flex: 1;
+}
+.page1{
+    height: 736px;
+    background-color: #F5F5F7;
+}
+.page2{
+    height: 800px;
+    background-color: #000000;
+}
+.page3{
+    height: 790px;
+    background-color: #FAFAFA;
+}
+.page4{
+    
+    height: 1776px;
+    background-color: #FFFFFF;
+}
+.iphone{
+    overflow: hidden;
+    height: 199.64px;
+    background-color: #F5F5F7;
+}
+.iphone15{
+    overflow: hidden;
+    height: 199.64px;
+    background-color: #000000;
+}
+.watch{
+    overflow: hidden;
+    height: 225.64px;
+    background-color: #FAFAFA;
+   
+}
+.photoiphone{
+    height:536.36px;
+}
+.iphonetext{
+    
+    margin-top: 50px;
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Medium', sans-serif;
+    font-size: 67px;
+}
+.iphone15text{
+    color: #F5F5F7;
+    font-family: 'SF-Pro-Display-Medium', sans-serif;
+    font-size: 67px;
+    margin-top: 35px;
+}
+
+.adventureawaits{
+    margin-top: -20px;
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Medium';
+    font-size: 34px;
+    font-weight: 300;
+   
+}
+.bigtext{
+    margin-top: -70px;
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Thin';
+    font-size: 34px;
+    font-weight: 550;
+}
+.imgip{
+    margin-top: 0px;
+    margin-left: 920px;
+}
+.watchultra1{
+  
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Bold';
+    font-size: 56px;
+    font-weight: 550;
+}
+.watchultra2{
+    margin-top: -55px;
+    color: #FD6A13;
+    font-family: 'SF-Pro-Display-Bold';
+    font-size: 28px;
+    font-weight: 550;
+    
+}
+.watchphoto{
+    margin-top: 120px;
+}
+.container1{
+    margin-left: 80px;
+    width: 733.12px;
+    height: 624px;
+    background-image: url(finish_alum_black_02__bu7sw1szt336_xlarge.jpg);
+}
+.container2{
+    margin-left: 1100px;
+    margin-top: -656px;
+    width: 733.12px;
+    height: 624px;
+    background-image: url(Apple-AirPods-Pro-2nd-gen-hero-220907_big.jpg.large.jpg);
+}
+.container3{
+    margin-top: -100px;
+    margin-left: 80px;
+    width: 733.12px;
+    height: 624px;
+    background-image: url(Apple_SE2.jpg);
+}
+.container4{
+    text-align: center;
+    margin-left: 1100px;
+    margin-top: -624px;
+    width: 733.12px;
+    height: 624px;
+    background-color: #FAFAFA;
+}
+.container5{
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 733.12px;
+    height: 624px;
+    background-color: #F9F9F9;
+}
+.container6{
+    margin-left: 1100px;
+    margin-top: -624px;
+    width: 733.12px;
+    height: 624px;
+    background-color: #FFFFFF;
+}
+.ahealthyleapahead{
+    margin-top: 10px;
+    color: #F5F5F7;
+    font-family: 'SF-Pro-Display-Thin';
+    font-size: 25px;
+    font-weight: 300;
+}
+.AirPods{
+    color: #F5F5F7;
+    font-family: 'SF-Pro-Display-Thin';
+    font-size: 32px;
+    font-weight: 550;
+}
+.Rebuiltfromthesoundup{
+ 
+    color: #F5F5F7;
+    font-family: 'SF-Pro-Display-Thin';
+    font-size: 25px;
+    font-weight: 300;
+}
+.fitness{
+    margin-left: 1020px;
+    margin-top: 200px;
+   
+}
+.fitnes{
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Bold';
+    font-size: 56px;
+    font-weight: 550;
+    margin-top: -10px;
+  
+}
+.fitnessforeveryone{
+    color: #000000;
+    font-family: 'SF-Pro-Display-Thin';
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: -40px;
+}
+.macbook{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.applecard{
+    margin-left: 20px;
+    margin-top: 00px;
+}

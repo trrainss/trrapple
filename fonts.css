@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'SF-Pro-Display-Medium';
+    src: local('SF-Pro-Display-Medium'),
+    url(/fonts/SF-Pro-Display-Medium.otf);
+   
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Thin';
+    src: local('SF-Pro-Display-Thin'),
+    url(/fonts/SF-Pro-Display-Thin.otf);
+   
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    src: local('SF-Pro-Display-Bold'),
+    url(/fonts/SF-Pro-Display-Bold.otf);
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: local('SF-Pro-Display-Light'),
+    url(/fonts/SF-Pro-Display-Light.otf);
+}
